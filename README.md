@@ -3,9 +3,15 @@
 
 Tools for scraping, analyzing, generating color palettes.
 
-Also datasets
+- Scraper-colorhunt.js
+-- grab from colorhunt.co
 
-* colorhunt-palettes-18-Jul-2020.json
+- scrapeloop-colorhunt.js
+-- tool to run the above with delays since I was too lazy to build waits into Node code
+
+# Also datasets
+
+* colorhunt-palettes-colorhunt-18-Jul-2020.json
 
 15714 4-color palettes from colorhunt.co
 Notes:
